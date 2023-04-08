@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **seanchi77@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sean-stevens-me](https://www.linkedin.com/in/sean-stevens-me)
+- 📄 Know about my experiences [See my Resume](https://drive.google.com/file/d/1cpU1mOwzZf5kXn_kgktVj2EKH03Vejgt/view?usp=sharing)
 
 - ⚡ Fun fact **I started programming at the age of 13**
 
