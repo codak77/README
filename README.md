@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-<h3 align="center">A passionate Software Engineer(DevOps heavy).</h3>
+<h3 align="center">A passionate Software Engineer(DevOps).</h3>
 
 - 🔭 I’m currently working on my baby - [Nerdbuds](https://nerdbudltd.com/)
 
