@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, MERN, Devops**
 
-- 📫 How to reach me **seanchi77@gmail.com**
+- 📫 How to reach me **hello@sean-stevens.tech**
 
 - 📄 Know about my experiences [See my Resume](https://drive.google.com/file/d/1cpU1mOwzZf5kXn_kgktVj2EKH03Vejgt/view?usp=sharing)
 
