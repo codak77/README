@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-<h3 align="center">Professional Software Engineer(DevOps).</h3>
+<h3 align="center">Professional Software Engineer specialized in the DevOps Culture.</h3>
 
 - 🔭 I’m currently working on my baby - [Nerdbuds](https://nerdbudltd.com/)
 
