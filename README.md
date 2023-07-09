@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-<h3 align="center">DevOps Engineer during the day, Backend Developer at night </h3>
+<h3 align="center">Software Engineer specialized in the DevOps culture </h3>
 
 - 🔭 I’m currently working on - [Nerdbuds](https://nerdbudltd.com/)
 
