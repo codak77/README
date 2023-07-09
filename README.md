@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-<h3 align="center">Software Engineer specialized in the DevOps Culture </h3>
+<h3 align="center">DevOps Engineer during the day, Backend Developer at night </h3>
 
-- DevOps Engineer during the day, Backend Developer at night
 - 🔭 I’m currently working on - [Nerdbuds](https://nerdbudltd.com/)
 
 - 🌱 I’m currently learning **ML Ops**
