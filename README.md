@@ -1,19 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sean</h1>
-<h3 align="center">Software Engineer specialized in the DevOps culture. </h3>
-
-- 🔭 I’m currently working on - [Nerdbuds](https://nerdbudltd.com/)
-
-- 🌱 I’m currently learning **ML Ops**
-
-- 💬 Ask me about **Python, MERN, Devops**
-
-- 📫 How to reach me **hello@sean-stevens.tech**
-
-- 📄 Know about my experiences [See my Resume](https://drive.google.com/file/d/1cpU1mOwzZf5kXn_kgktVj2EKH03Vejgt/view?usp=sharing)
-
-- ⚡ Fun fact **I started programming at the age of 13**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sean-stevens-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sean stevens" height="30" width="40" /></a>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=codak77&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=codak77&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=codak77&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+<!--   <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a> -->
 </p>
